@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityHUbProjects\\Test_TreasureHunt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|d:\\unityhubprojects\\test_treasurehunt\\assets\\script\\advancedcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\advancedcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|D:\\UnityHUbProjects\\Test_TreasureHunt\\assets\\script\\cameratouchrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameratouchrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|D:\\UnityHUbProjects\\Test_TreasureHunt\\assets\\script\\playercompassrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercompassrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|D:\\UnityHUbProjects\\Test_TreasureHunt\\assets\\script\\playerrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|D:\\UnityHUbProjects\\Test_TreasureHunt\\assets\\script\\cameracompassrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameracompassrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|D:\\UnityHUbProjects\\Test_TreasureHunt\\assets\\script\\gpsmovementsmooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gpsmovementsmooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|D:\\UnityHUbProjects\\Test_TreasureHunt\\assets\\script\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C730BA-3D82-DE44-6BFE-C45848C4B193}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvancedCameraController.cs",
+              "DocumentMoniker": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\AdvancedCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AdvancedCameraController.cs",
+              "ToolTip": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\AdvancedCameraController.cs",
+              "RelativeToolTip": "Assets\\Script\\AdvancedCameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T06:33:38.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraTouchRotate.cs",
+              "DocumentMoniker": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\CameraTouchRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraTouchRotate.cs",
+              "ToolTip": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\CameraTouchRotate.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraTouchRotate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T06:33:34.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerCompassRotation.cs",
+              "DocumentMoniker": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\PlayerCompassRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerCompassRotation.cs",
+              "ToolTip": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\PlayerCompassRotation.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerCompassRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKmSURBVDhP7dFPSJNxHAbw5/vunQ3xbU4naqaSMxObhTkqA\u002B3PQUrwEISU9AfyX6dyEd0ko1NQblYQKdLB1ENKsDoEUSEWNrc0LaxMDwnmdJbOmZtu7/vtkBvvpZMdfW7fHx94HvgBG1lvCAC\u002BL3w39Hzr0T358gifvZPISMqAtdCK0sQCf3KyeSmCO0Y6DFpBG6owVywxXxPah01GY6zRV5ZTthIxAgAEggGboJA7xBo3iWG3qJA7Rhbdv2RNXQQCQDAUtPlX/XUA0D5sMobl0HPP0lSJ2ogAcGfIliAK4pbdibtcC8GFe4VJFpvT40wY8AxIavxwtCWBAQkAWj/aNQpiksHQqQ0BQE5LliNzc6ZUnFLSKjMcRFTX73lTuxTyd53Lr\u002Br8HfBX2j80wbfiO0VEPwD0MjgOQC0Yz0x609g2aftY94nuThEAvMuz8Aa8vS9Ovu5cK7ptbsuNJYUnREXUg4TCv/WkZ2YQoRBMOhC0IM4GSNIIUKIzDfY4h6FZaow\u002B/CNqZ2yKTY23S1PxzVK52gjq43\u002BEsNYMosH5S/7oSnNbbgMB49aCq\u002BOLq74G29At\u002BFYX94LZR8BXJugAKgZ4xKTPnsnSm1yPj/fcEAEgTUpHupR\u002BsKivqFI2wEHzVNc7\u002Ber04qqvKyyE3zMrgwAA5h1rnzIIcBzA\u002B8GYAPMYyzQRXXjl5WVHWJHLF1cWXE5P/90jGaV2ZiVBVuTr9489iK4\u002B0L7PwcBg/xlnY3H7nlQFWjeYLrw9\u002B\u002B5pxAgAUJVXM58amzLtmnFt9Qbmbo7OfVo5lHZ4\u002BmJBvT8CAaA6r2a\u002BemetHwBq8uvl83k1s1Xm2qDaCAAgh2QrWLCILFtkkIUgWkRNyAINWtRY3sRWXuYWANCN6X4qWj5KPupTm42sP38A\u002BPobLn6iw4AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-04-08T06:33:34.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraCompassRotation.cs",
+              "DocumentMoniker": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\CameraCompassRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraCompassRotation.cs",
+              "ToolTip": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\CameraCompassRotation.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraCompassRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKmSURBVDhP7dFPSJNxHAbw5/vunQ3xbU4naqaSMxObhTkqA\u002B3PQUrwEISU9AfyX6dyEd0ko1NQblYQKdLB1ENKsDoEUSEWNrc0LaxMDwnmdJbOmZtu7/vtkBvvpZMdfW7fHx94HvgBG1lvCAC\u002BL3w39Hzr0T358gifvZPISMqAtdCK0sQCf3KyeSmCO0Y6DFpBG6owVywxXxPah01GY6zRV5ZTthIxAgAEggGboJA7xBo3iWG3qJA7Rhbdv2RNXQQCQDAUtPlX/XUA0D5sMobl0HPP0lSJ2ogAcGfIliAK4pbdibtcC8GFe4VJFpvT40wY8AxIavxwtCWBAQkAWj/aNQpiksHQqQ0BQE5LliNzc6ZUnFLSKjMcRFTX73lTuxTyd53Lr\u002Br8HfBX2j80wbfiO0VEPwD0MjgOQC0Yz0x609g2aftY94nuThEAvMuz8Aa8vS9Ovu5cK7ptbsuNJYUnREXUg4TCv/WkZ2YQoRBMOhC0IM4GSNIIUKIzDfY4h6FZaow\u002B/CNqZ2yKTY23S1PxzVK52gjq43\u002BEsNYMosH5S/7oSnNbbgMB49aCq\u002BOLq74G29At\u002BFYX94LZR8BXJugAKgZ4xKTPnsnSm1yPj/fcEAEgTUpHupR\u002BsKivqFI2wEHzVNc7\u002Ber04qqvKyyE3zMrgwAA5h1rnzIIcBzA\u002B8GYAPMYyzQRXXjl5WVHWJHLF1cWXE5P/90jGaV2ZiVBVuTr9489iK4\u002B0L7PwcBg/xlnY3H7nlQFWjeYLrw9\u002B\u002B5pxAgAUJVXM58amzLtmnFt9Qbmbo7OfVo5lHZ4\u002BmJBvT8CAaA6r2a\u002BemetHwBq8uvl83k1s1Xm2qDaCAAgh2QrWLCILFtkkIUgWkRNyAINWtRY3sRWXuYWANCN6X4qWj5KPupTm42sP38A\u002BPobLn6iw4AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-04-08T06:33:34.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraFollow.cs",
+              "ToolTip": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKmSURBVDhP7dFPSJNxHAbw5/vunQ3xbU4naqaSMxObhTkqA\u002B3PQUrwEISU9AfyX6dyEd0ko1NQblYQKdLB1ENKsDoEUSEWNrc0LaxMDwnmdJbOmZtu7/vtkBvvpZMdfW7fHx94HvgBG1lvCAC\u002BL3w39Hzr0T358gifvZPISMqAtdCK0sQCf3KyeSmCO0Y6DFpBG6owVywxXxPah01GY6zRV5ZTthIxAgAEggGboJA7xBo3iWG3qJA7Rhbdv2RNXQQCQDAUtPlX/XUA0D5sMobl0HPP0lSJ2ogAcGfIliAK4pbdibtcC8GFe4VJFpvT40wY8AxIavxwtCWBAQkAWj/aNQpiksHQqQ0BQE5LliNzc6ZUnFLSKjMcRFTX73lTuxTyd53Lr\u002Br8HfBX2j80wbfiO0VEPwD0MjgOQC0Yz0x609g2aftY94nuThEAvMuz8Aa8vS9Ovu5cK7ptbsuNJYUnREXUg4TCv/WkZ2YQoRBMOhC0IM4GSNIIUKIzDfY4h6FZaow\u002B/CNqZ2yKTY23S1PxzVK52gjq43\u002BEsNYMosH5S/7oSnNbbgMB49aCq\u002BOLq74G29At\u002BFYX94LZR8BXJugAKgZ4xKTPnsnSm1yPj/fcEAEgTUpHupR\u002BsKivqFI2wEHzVNc7\u002Ber04qqvKyyE3zMrgwAA5h1rnzIIcBzA\u002B8GYAPMYyzQRXXjl5WVHWJHLF1cWXE5P/90jGaV2ZiVBVuTr9489iK4\u002B0L7PwcBg/xlnY3H7nlQFWjeYLrw9\u002B\u002B5pxAgAUJVXM58amzLtmnFt9Qbmbo7OfVo5lHZ4\u002BmJBvT8CAaA6r2a\u002BemetHwBq8uvl83k1s1Xm2qDaCAAgh2QrWLCILFtkkIUgWkRNyAINWtRY3sRWXuYWANCN6X4qWj5KPupTm42sP38A\u002BPobLn6iw4AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-04-08T06:33:34.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerRotation.cs",
+              "DocumentMoniker": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\PlayerRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerRotation.cs",
+              "ToolTip": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\PlayerRotation.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerRotation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAkAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKmSURBVDhP7dFPSJNxHAbw5/vunQ3xbU4naqaSMxObhTkqA\u002B3PQUrwEISU9AfyX6dyEd0ko1NQblYQKdLB1ENKsDoEUSEWNrc0LaxMDwnmdJbOmZtu7/vtkBvvpZMdfW7fHx94HvgBG1lvCAC\u002BL3w39Hzr0T358gifvZPISMqAtdCK0sQCf3KyeSmCO0Y6DFpBG6owVywxXxPah01GY6zRV5ZTthIxAgAEggGboJA7xBo3iWG3qJA7Rhbdv2RNXQQCQDAUtPlX/XUA0D5sMobl0HPP0lSJ2ogAcGfIliAK4pbdibtcC8GFe4VJFpvT40wY8AxIavxwtCWBAQkAWj/aNQpiksHQqQ0BQE5LliNzc6ZUnFLSKjMcRFTX73lTuxTyd53Lr\u002Br8HfBX2j80wbfiO0VEPwD0MjgOQC0Yz0x609g2aftY94nuThEAvMuz8Aa8vS9Ovu5cK7ptbsuNJYUnREXUg4TCv/WkZ2YQoRBMOhC0IM4GSNIIUKIzDfY4h6FZaow\u002B/CNqZ2yKTY23S1PxzVK52gjq43\u002BEsNYMosH5S/7oSnNbbgMB49aCq\u002BOLq74G29At\u002BFYX94LZR8BXJugAKgZ4xKTPnsnSm1yPj/fcEAEgTUpHupR\u002BsKivqFI2wEHzVNc7\u002Ber04qqvKyyE3zMrgwAA5h1rnzIIcBzA\u002B8GYAPMYyzQRXXjl5WVHWJHLF1cWXE5P/90jGaV2ZiVBVuTr9489iK4\u002B0L7PwcBg/xlnY3H7nlQFWjeYLrw9\u002B\u002B5pxAgAUJVXM58amzLtmnFt9Qbmbo7OfVo5lHZ4\u002BmJBvT8CAaA6r2a\u002BemetHwBq8uvl83k1s1Xm2qDaCAAgh2QrWLCILFtkkIUgWkRNyAINWtRY3sRWXuYWANCN6X4qWj5KPupTm42sP38A\u002BPobLn6iw4AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-04-08T06:33:34.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GPSMovementSmooth.cs",
+              "DocumentMoniker": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\GPSMovementSmooth.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GPSMovementSmooth.cs",
+              "ToolTip": "D:\\UnityHUbProjects\\Test_TreasureHunt\\Assets\\Script\\GPSMovementSmooth.cs",
+              "RelativeToolTip": "Assets\\Script\\GPSMovementSmooth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKmSURBVDhP7dFPSJNxHAbw5/vunQ3xbU4naqaSMxObhTkqA\u002B3PQUrwEISU9AfyX6dyEd0ko1NQblYQKdLB1ENKsDoEUSEWNrc0LaxMDwnmdJbOmZtu7/vtkBvvpZMdfW7fHx94HvgBG1lvCAC\u002BL3w39Hzr0T358gifvZPISMqAtdCK0sQCf3KyeSmCO0Y6DFpBG6owVywxXxPah01GY6zRV5ZTthIxAgAEggGboJA7xBo3iWG3qJA7Rhbdv2RNXQQCQDAUtPlX/XUA0D5sMobl0HPP0lSJ2ogAcGfIliAK4pbdibtcC8GFe4VJFpvT40wY8AxIavxwtCWBAQkAWj/aNQpiksHQqQ0BQE5LliNzc6ZUnFLSKjMcRFTX73lTuxTyd53Lr\u002Br8HfBX2j80wbfiO0VEPwD0MjgOQC0Yz0x609g2aftY94nuThEAvMuz8Aa8vS9Ovu5cK7ptbsuNJYUnREXUg4TCv/WkZ2YQoRBMOhC0IM4GSNIIUKIzDfY4h6FZaow\u002B/CNqZ2yKTY23S1PxzVK52gjq43\u002BEsNYMosH5S/7oSnNbbgMB49aCq\u002BOLq74G29At\u002BFYX94LZR8BXJugAKgZ4xKTPnsnSm1yPj/fcEAEgTUpHupR\u002BsKivqFI2wEHzVNc7\u002Ber04qqvKyyE3zMrgwAA5h1rnzIIcBzA\u002B8GYAPMYyzQRXXjl5WVHWJHLF1cWXE5P/90jGaV2ZiVBVuTr9489iK4\u002B0L7PwcBg/xlnY3H7nlQFWjeYLrw9\u002B\u002B5pxAgAUJVXM58amzLtmnFt9Qbmbo7OfVo5lHZ4\u002BmJBvT8CAaA6r2a\u002BemetHwBq8uvl83k1s1Xm2qDaCAAgh2QrWLCILFtkkIUgWkRNyAINWtRY3sRWXuYWANCN6X4qWj5KPupTm42sP38A\u002BPobLn6iw4AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-04-08T06:33:34.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
